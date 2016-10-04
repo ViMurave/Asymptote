@@ -1,3 +1,4 @@
+(function(){
 var tdforbutton=document.getElementsByName("2"); // создаем кнопки
 var btn=document.createElement('input');
 btn.type='button';
@@ -279,5 +280,5 @@ function click_start() {
 
 }
 
-
+})();
 
